@@ -3,6 +3,7 @@
 I'm a **Software Engineer** with a passion for solving complex problems and creating impactful software. With expertise in **Python**, **JavaScript**, and **Java**.
 
 - 🌍 Based in **Dublin, Ireland**
+- 🔨 Software Engineer @ Microsoft
 
 
 ## 📫 How to Reach Me
